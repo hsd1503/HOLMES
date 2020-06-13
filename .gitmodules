@@ -1,0 +1,4 @@
+[submodule "serve-healthcare"]
+	path = serve-healthcare
+	url = https://github.com/alindkhare/serve-healthcare.git
+	branch = opt
