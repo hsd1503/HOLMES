@@ -1,7 +1,0 @@
-[submodule "resnet1d"]
-	path = resnet1d
-	url = https://github.com/hsd1503/resnet1d.git
-[submodule "ray"]
-	path = ray
-	url = https://github.com/alindkhare/ray.git
-	branch = serve-health-pipeline-profile
