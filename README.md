@@ -1,6 +1,6 @@
 # HOLMES
 
-HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in Intensive Care Units (KDD 2020)
+HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in Intensive Care Units (KDD 2020) [paper](https://arxiv.org/pdf/2008.04063.pdf)
 
 ### Cloning the repository
 
